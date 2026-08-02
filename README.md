@@ -23,4 +23,4 @@ Requirements: [Node.js](https://nodejs.org/) 20+ and npm.
 git clone https://github.com/YOUR_USERNAME/current.git
 cd current
 npm install
-npm run desktop
+npm run desktop.
