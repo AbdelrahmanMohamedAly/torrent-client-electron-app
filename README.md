@@ -2,7 +2,7 @@
 
 A free, local desktop BitTorrent client 
 
-![CURRENT screenshot](docs/screenshot.png)
+![CURRENT screenshot](docs/screenshot1.png)
 
 ## Features
 
